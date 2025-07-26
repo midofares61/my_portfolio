@@ -18,7 +18,7 @@ export const projects: Project[] = [
       live: "https://healthtrackpro.com",
       github: "https://github.com/yourusername/healthtrackpro",
     },
-    imageUrl: "src/data/files/mtm_desktop.png"
+    imageUrl: "/mtm_desktop.png"
   },
   {
     id: 2,

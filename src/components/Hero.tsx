@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
         {/* Mockup Display */}
         <div className="relative hidden lg:block animate-fade-in-delay-2">
           <img
-              src="src/data/files/hero.png"
+              src="/hero.png"
               alt="Desktop Application"
               className="w-full h-full object-cover"
             />
