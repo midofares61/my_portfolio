@@ -66,7 +66,7 @@ const Contact: React.FC = () => {
           
           <div className="mt-12">
             <a 
-              href="/Mohamed-Fares-Samir-FlowCV-Resume-20241102.pdf"
+              href="/Mohamed-Fares-Samir.pdf"
               className="inline-block px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
             >
               Download Resume
